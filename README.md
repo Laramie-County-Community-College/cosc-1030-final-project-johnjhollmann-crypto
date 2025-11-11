@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21595539)
 # Final Project Information - Model a statistical simulation
 
 We will be writing a program that helps us gain some insight into a situation that can occur in Basketball.  When down 3 with 30 seconds left--it is better to take a hard 3 or an easy two and attempt to get another possession?  We will attempt to answer this by building a type of program called a simulation.  We will take what we have learned about our 'tools' and the idea of abstraction and work toward building some statistics that might drive a decision!
